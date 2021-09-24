@@ -5,7 +5,7 @@ tabula is a tool for liberating data tables trapped inside PDF files for the Lar
 
 
 ```
-composer require initred/laravel-tabula
+composer require shalao/tabula
 ```
 
 ### Configuration Settings (Needed Java)
