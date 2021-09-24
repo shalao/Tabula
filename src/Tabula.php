@@ -50,7 +50,7 @@ class Tabula
     /**
      * Path to jar file
      */
-    private $jarArchive = __DIR__ . '/../../../lib/tabula-1.0.5-jar-with-dependencies.jar';
+    private $jarArchive = __DIR__ . '/../lib/tabula-1.0.5-jar-with-dependencies.jar';
 
     /**
      * Tabula constructor.
