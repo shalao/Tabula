@@ -16,8 +16,8 @@
 		"symfony/process": "^4.3.4"
 	},
 	"autoload": {
-		"psr-0": {
-			"Fengqi": "src"
+		"psr-4": {
+			"Fengqi\\": ["src/"]
 		}
 	}
 }
