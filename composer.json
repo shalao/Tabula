@@ -13,11 +13,11 @@
 	],
 	"require": {
 		"php": ">=7.1.0",
-		"symfony/process": "^4.3.4"
+		"symfony/process": "^4.4"
 	},
 	"autoload": {
 		"psr-4": {
-			"Tabula\\": "src/"
+			"Tabula\\": "src"
 		}
 	}
 }
