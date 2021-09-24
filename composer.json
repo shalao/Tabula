@@ -1,24 +1,23 @@
 {
-    "name": "Fengqi/Tabula",
-    "descritpion": "An OO PHP Wrapper for tabula-java",
-    "type": "library",
-    "license": "MIT",
-    "keywords": [
-        "laravel",
-        "pdf",
-        "csv",
-        "tsv",
-        "json",
-        "tabula",
-        "table"
-    ],    
-    "require": {
-        "php": ">=7.1.0",
-        "symfony/process": "^4.3.4"
-    },
-    "autoload": {
-	    "psr-0": {
-		    "Fengqi": "src"
-	    }
-    },
+	"name": "Fengqi/Tabula",
+	"descritpion": "An OO PHP Wrapper for tabula-java",
+	"type": "library",
+	"license": "MIT",
+	"keywords": [
+		"pdf",
+		"csv",
+		"tsv",
+		"json",
+		"tabula",
+		"table"
+	],
+	"require": {
+		"php": ">=7.1.0",
+		"symfony/process": "^4.3.4"
+	},
+	"autoload": {
+		"psr-0": {
+			"Fengqi": "src"
+		}
+	}
 }
