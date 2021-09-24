@@ -17,7 +17,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Fengqi\\": ["src/"]
+			"Shalao\\Tabula\\": "src/"
 		}
 	}
 }

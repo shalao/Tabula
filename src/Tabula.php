@@ -1,6 +1,6 @@
 <?php
 
-namespace Fengqi\Tabula;
+namespace Shalao\Tabula;
 
 use Symfony\Component\Process\Exception\InvalidArgumentException;
 use Symfony\Component\Process\Exception\RuntimeException;
