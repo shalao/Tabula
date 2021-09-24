@@ -1,6 +1,6 @@
 <?php
 
-namespace Shalao\Tabula;
+namespace Tabula;
 
 use Symfony\Component\Process\Exception\InvalidArgumentException;
 use Symfony\Component\Process\Exception\RuntimeException;
